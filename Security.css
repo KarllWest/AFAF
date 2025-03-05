@@ -68,7 +68,7 @@ h1 {
 .container3 { background-image: url(./img/spyware.jpg); }
 .container4 { background-image: url(./img/Adware.png); }
 .container5 { background-image: url(./img/phising.png); }
-.container6 { background-image: url(./img/Pharming.png); }
+.container6 { background-image: url(./img/pharming.png); }
 
 /* Додаємо блюр лише на фон */
 .container::before {
